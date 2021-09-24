@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**atombrella/atombrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Small biography
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+Various things of interest. Recently contributed various things to [DigitalOcean's Terraform provider](https://github.com/digitalocean/terraform-provider-digitalocean)
+
 - 🌱 I’m currently learning ...
+
+[Terraform](https://www.terraform.io/) and [Go](https://golang.org/)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
--->
+
+## Bikes
+
+You can check out my rides on [Strava](https://www.strava.com/athletes/56320231) or [Komoot](https://www.komoot.com/user/852999494789)
