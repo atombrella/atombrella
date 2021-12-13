@@ -20,3 +20,7 @@ Various things of interest. Recently contributed various things to [DigitalOcean
 ## Bikes
 
 You can check out my rides on [Strava](https://www.strava.com/athletes/56320231) or [Komoot](https://www.komoot.com/user/852999494789)
+
+## Fund me
+
+You can donate a bit of money to my [PayPal](https://paypal.me/atombrella?country.x=DK&locale.x=en_US) if you benefit form my work. 
